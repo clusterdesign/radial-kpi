@@ -1,7 +1,5 @@
 # Cluster Radial KPI
 
-#### May 2022 - First release, fresh from the oven! 🚀
-
 > A versatile Qlik Sense extension to help visualize several KPIs into compact screen spaces. This extension is the perfect fit for your C-Level dashboards and presentations. Keep on track with your main company areas with a simple but powerful visualization;
 
 Download it in our very own [Extension Portal](https://portal.clusterdesign.io/)
