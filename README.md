@@ -8,10 +8,10 @@ Download it in our very own [Extension Portal](https://portal.clusterdesign.io/)
 
 #### Add up to 6 KPIs
 
-<img src="https://user-images.githubusercontent.com/53191126/172262371-fe7df316-6de7-4f0d-bd89-fee14fae377e.png" width="800" />
+<img src="https://user-images.githubusercontent.com/53191126/172262371-fe7df316-6de7-4f0d-bd89-fee14fae377e.png" width="100%" />
 
 
-<img src="https://user-images.githubusercontent.com/53191126/172262252-64ce9bb7-e3c6-4651-a193-51381d347bc2.gif" width="800" />
+<img src="https://user-images.githubusercontent.com/53191126/172262252-64ce9bb7-e3c6-4651-a193-51381d347bc2.gif" width="100%" />
 
 Each KPI has the following **features** / **properties**:
 
