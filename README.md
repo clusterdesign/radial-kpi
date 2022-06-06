@@ -13,7 +13,6 @@ Each KPI has the following **features** / **properties**:
 
 - Title;
 - Hover Title: A different text when you hover the KPI, to explain it better:
-`image`
 - Value;
 - Color of the arc;
 - Period (we think it's a great place to show the period that you're considering there. But you can put anything you want really);
