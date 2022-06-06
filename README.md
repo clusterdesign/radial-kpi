@@ -39,8 +39,8 @@ just paste your FontAwesome icon class and you're good to go;
 
 <img src="https://user-images.githubusercontent.com/53191126/172262313-1b41862f-0a9c-4d7e-8640-ed95bbfbc4ad.gif" width="800" />
 
-
 ### - Navigate on KPI click
+
 >-- I want to navigate somewhere else when I click on a specific KPI, is that possible?
 >-- Well, here it is!
 
