@@ -1,5 +1,7 @@
 # Cluster Radial KPI
 
+### May 2022 - First release, fresh from the oven! 🚀
+
 > A versatile Qlik Sense extension to help visualize several KPIs into compact screen spaces. This extension is the perfect fit for your C-Level dashboards and presentations. Keep on track with your main company areas with a simple but powerful visualization;
 
 Download it in our very own [Extension Portal](https://portal.clusterdesign.io/)
@@ -29,7 +31,7 @@ Each KPI has the following **features** / **properties**:
 <img src="https://user-images.githubusercontent.com/53191126/172262335-0bac1ec2-7df7-4904-8309-3a20724b6282.gif" width="800" />
 
 
-- Information: additional information about the KPI value;
+### - Information: additional information about the KPI value;
 
 <img src="https://user-images.githubusercontent.com/53191126/172262322-f97d984a-4478-4018-a042-9581a427f998.gif" width="800" />
 
@@ -40,7 +42,7 @@ just paste your FontAwesome icon class and you're good to go;
 <img src="https://user-images.githubusercontent.com/53191126/172262313-1b41862f-0a9c-4d7e-8640-ed95bbfbc4ad.gif" width="800" />
 
 
-- Navigate on KPI click
+### - Navigate on KPI click
 >-- I want to navigate somewhere else when I click on a specific KPI, is that possible?
 >-- Well, here it is!
 
