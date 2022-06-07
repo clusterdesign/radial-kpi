@@ -2,7 +2,7 @@
 
 > A versatile Qlik Sense extension to help visualize several KPIs into compact screen spaces. This extension is the perfect fit for your C-Level dashboards and presentations. Keep on track with your main company areas with a simple but powerful visualization;
 
-Download it in our very own [Extension Portal](https://portal.clusterdesign.io/)
+[<img src="https://user-images.githubusercontent.com/53191126/172383030-28077828-f521-431c-8c1e-9b975892a8e1.png" width="230"/>](https://portal.clusterdesign.io/)
 
 ## Features
 
